@@ -1,0 +1,10 @@
+{
+  "yolo_weights": "C:\\Users\\user\\Desktop\\yolo\\yolo26n.pt",
+  "mllm_backend": "transformers",
+  "transformers_model": "Qwen/Qwen3-VL-4B-Instruct",
+  "ollama_model": "qwen3-vl:8b-instruct",
+  "output_root": "outputs",
+  "staging_root": "staging_dataset",
+  "yolo_conf": 0.25,
+  "yolo_imgsz": 960
+}

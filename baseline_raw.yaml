@@ -1,0 +1,9 @@
+path: C:\Users\user\Desktop\專題 001\night_data_v3_split
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: person
+  1: dog
+  2: car
+  3: bicycle

@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+
+# Dataset / large generated data
+night_data_v3_split/
+staging_dataset/
+mllm_enhanced_*/
+.cache/
+
+# Temporary files
+*.tmp
+*.bak

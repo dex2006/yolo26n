@@ -1,0 +1,10 @@
+ultralytics
+opencv-python
+numpy
+Pillow
+gradio
+requests
+pydantic
+transformers
+accelerate
+bitsandbytes
